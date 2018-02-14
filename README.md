@@ -1,7 +1,9 @@
 This is a repository of the major methods used in the paper Brookings et al. 2012:
-`Statistics of neuronal identification with open- and closed-loop measures of intrinsic excitability.
+```
+Statistics of neuronal identification with open- and closed-loop measures of intrinsic excitability.
 Brookings T, Grashow R, Marder E.
-Front Neural Circuits. 2012 Apr 27;6:19. doi: 10.3389/fncir.2012.00019. eCollection 2012.`
+Front Neural Circuits. 2012 Apr 27;6:19. doi: 10.3389/fncir.2012.00019. eCollection 2012.
+```
 
 NOTES:
 - This code is not maintained, and the raw data is not stored in this repository. The principal value is to provide ground truth for anyone seeking to understand, validate, or compare the algorithms used in the original paper.
